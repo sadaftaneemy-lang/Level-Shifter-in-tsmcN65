@@ -6,7 +6,7 @@ For example:
 Input: 1.2 V logic
 Output: 3.3 V logic
 
-        OR
+OR
 
 Input: 3.3 V logic
 Output: 1.8 V logic
