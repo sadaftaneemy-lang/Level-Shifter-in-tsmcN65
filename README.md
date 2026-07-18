@@ -1,4 +1,4 @@
-# Level-Shifter-in-tsmcN65
+# Level Shifter
 A level shifter is a circuit that converts a digital signal from one voltage level to another while preserving the logic state.
 
 For example:
@@ -6,7 +6,7 @@ For example:
 Input: 1.2 V logic
 Output: 3.3 V logic
 
-or
+        OR
 
 Input: 3.3 V logic
 Output: 1.8 V logic
