@@ -13,11 +13,13 @@ Output: 1.8 V logic
 
 Without a level shifter, connecting circuits operating at different supply voltages can lead to incorrect logic interpretation or even damage to low-voltage devices.
 
-# Why do we need a Level Shifter?
+## Why do we need a Level Shifter?
 
 Modern SoCs use multiple voltage domains.
 
+
 Example:
+
 
 CPU Core → 0.8 V
 SRAM → 1.0 V
