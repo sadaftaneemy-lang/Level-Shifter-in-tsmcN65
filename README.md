@@ -22,10 +22,14 @@ Example:
 
 
 CPU Core → 0.8 V
+
 SRAM → 1.0 V
+
 PLL → 1.2 V
+
 I/O Pads → 3.3 V
 
 Since these blocks operate at different voltages, signals cannot be directly connected.
+
 
 A level shifter safely transfers signals between these voltage domains
