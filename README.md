@@ -33,3 +33,27 @@ Since these blocks operate at different voltages, signals cannot be directly con
 
 
 A level shifter safely transfers signals between these voltage domains
+
+## Types of Level Shifters
+
+There are mainly two types.
+
+1. Low-to-High Level Shifter (Up Shifter)
+
+Input Voltage
+
+1.0 V
+
+Output Voltage
+
+3.3 V
+
+This is the most commonly used level shifter.
+
+Purpose
+
+Increase voltage level.
+
+Example
+
+Core → GPIO
