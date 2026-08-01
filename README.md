@@ -51,3 +51,8 @@ This is the most commonly used level shifter.
 Example
 
 Core → GPIO
+
+## Tool used
+
+- Cadence Virtuoso
+- TSMC Node65
