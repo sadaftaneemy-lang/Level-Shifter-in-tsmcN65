@@ -55,4 +55,4 @@ Core → GPIO
 ## Tool used
 
 - Cadence Virtuoso
-- TSMC Node65
+- tsmc Node65
