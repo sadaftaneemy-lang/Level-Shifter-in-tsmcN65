@@ -56,3 +56,9 @@ Core → GPIO
 
 - Cadence Virtuoso
 - tsmc Node65
+
+## Components used
+
+**Schematic**
+- pch_25
+- nch_25
