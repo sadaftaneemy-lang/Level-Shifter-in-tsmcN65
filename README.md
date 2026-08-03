@@ -62,3 +62,13 @@ Core → GPIO
 **Schematic**
 - pch_25
 - nch_25
+
+## Typical Transistors Used
+
+A standard CMOS level shifter usually contains:
+
+Two PMOS transistors (cross-coupled)
+Two NMOS transistors
+Sometimes additional enable or buffer transistors
+
+The cross-coupled PMOS pair provides positive feedback, helping the output switch fully to the higher supply voltage
