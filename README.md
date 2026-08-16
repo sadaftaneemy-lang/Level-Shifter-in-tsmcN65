@@ -54,9 +54,9 @@ Core → GPIO
 
 ## Tool used
 
-- Cadence Virtuoso
-- tsmc Node65
-- Calibre
+◆ Cadence Virtuoso
+◆ tsmc Node65
+◆ Calibre
 
 ## Components used
 
