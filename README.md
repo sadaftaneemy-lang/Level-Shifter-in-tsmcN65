@@ -60,7 +60,7 @@ Core → GPIO
 
 ◆ Calibre
 
-## Components used
+## 🔧Components used
 
 **Schematic**
 - pch_25
