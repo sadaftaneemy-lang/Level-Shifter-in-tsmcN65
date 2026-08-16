@@ -56,6 +56,7 @@ Core → GPIO
 
 - Cadence Virtuoso
 - tsmc Node65
+- Calibre
 
 ## Components used
 
