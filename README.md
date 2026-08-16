@@ -52,7 +52,7 @@ Example
 
 Core → GPIO
 
-## 🛠️Tool 
+## 🛠️Software
 
 ◆ Cadence Virtuoso
 
