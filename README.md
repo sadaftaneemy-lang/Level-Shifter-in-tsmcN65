@@ -90,7 +90,7 @@ They are common in:
 - Memories
 - SoCs (System-on-Chip)
 - Mobile processors
-Mixed-voltage digital systems
+- Mixed-voltage digital systems
 
 ## 🛠️Software
 
