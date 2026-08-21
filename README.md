@@ -89,7 +89,7 @@ They are common in:
 - Processors
 - Memories
 - SoCs (System-on-Chip)
-Mobile processors
+- Mobile processors
 Mixed-voltage digital systems
 
 ## 🛠️Software
