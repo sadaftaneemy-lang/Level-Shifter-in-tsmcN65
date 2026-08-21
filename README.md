@@ -84,7 +84,7 @@ Used for communication protocols such as:
 
 They are common in:
 
-VLSI chips
+- VLSI chips
 Microcontrollers
 Processors
 Memories
