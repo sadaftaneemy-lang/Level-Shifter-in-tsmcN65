@@ -80,6 +80,18 @@ Used for communication protocols such as:
 - SMBus
 - One-Wire
 
+##Where are Level Shifters Used?
+
+They are common in:
+
+VLSI chips
+Microcontrollers
+Processors
+Memories
+SoCs (System-on-Chip)
+Mobile processors
+Mixed-voltage digital systems
+
 ## 🛠️Software
 
 ◆ Cadence Virtuoso
