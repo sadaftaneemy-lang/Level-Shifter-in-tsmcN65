@@ -38,7 +38,7 @@ A level shifter safely transfers signals between these voltage domains
 
 There are mainly two types.
 
-**1.Low-to-High Level Shifter (Up Shifter)**
+**1. Low-to-High Level Shifter (Up Shifter)**
 
   Input Voltage : 1.0 V
 
@@ -52,12 +52,14 @@ Example
 
 Core → GPIO
 
-**2.High-to-Low Level Shifter (Down Shifter)**
+**2. High-to-Low Level Shifter (Down Shifter)**
 
 Converts:
 
 5 V → 3.3 V
+
 3.3 V → 1.8 V
+
 ## 🛠️Software
 
 ◆ Cadence Virtuoso
