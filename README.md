@@ -88,7 +88,7 @@ They are common in:
 - Microcontrollers
 - Processors
 - Memories
-SoCs (System-on-Chip)
+- SoCs (System-on-Chip)
 Mobile processors
 Mixed-voltage digital systems
 
