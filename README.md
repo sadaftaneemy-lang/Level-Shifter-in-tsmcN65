@@ -38,7 +38,7 @@ A level shifter safely transfers signals between these voltage domains
 
 There are mainly two types.
 
-1. Low-to-High Level Shifter (Up Shifter)
+**1.Low-to-High Level Shifter (Up Shifter)**
 
   Input Voltage : 1.0 V
 
