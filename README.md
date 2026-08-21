@@ -52,6 +52,12 @@ Example
 
 Core → GPIO
 
+**2.High-to-Low Level Shifter (Down Shifter)**
+
+Converts:
+
+5 V → 3.3 V
+3.3 V → 1.8 V
 ## 🛠️Software
 
 ◆ Cadence Virtuoso
