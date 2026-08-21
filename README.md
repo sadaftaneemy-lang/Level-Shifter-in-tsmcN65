@@ -70,6 +70,16 @@ Level Shifter
 
 Output = 1.2 V HIGH
 
+**3. Bidirectional Level Shifter**
+
+Works in both directions automatically.
+
+Used for communication protocols such as:
+
+- I²C
+- SMBus
+- One-Wire
+
 ## 🛠️Software
 
 ◆ Cadence Virtuoso
