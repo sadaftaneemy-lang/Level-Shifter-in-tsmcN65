@@ -137,10 +137,12 @@ VOUT → Level-shifted output
 
 For example :
 
-Input domain:
+**Input domain:**
+
 0 V → VDD1 = 1.2 V
 
-Output domain:
+**Output domain:**
+
 0 V → VDD2 = 2.5 V
 
 
