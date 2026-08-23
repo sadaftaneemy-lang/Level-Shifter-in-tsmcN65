@@ -145,7 +145,7 @@ For example :
 
 0 V → VDD2 = 2.5 V
 
-
+Therefore:
 
 
 
