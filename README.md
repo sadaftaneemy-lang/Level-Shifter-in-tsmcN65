@@ -135,7 +135,7 @@ VOUT → Level-shifted output
 
 **The basic purpose is :** Convert a logic signal referenced to VDD1 into a logic signal referenced to VDD2.
 
-
+For example :
 
 
 
