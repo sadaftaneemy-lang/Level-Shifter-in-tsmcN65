@@ -120,3 +120,34 @@ A standard CMOS level shifter usually contains:
 The cross-coupled PMOS pair provides positive feedback, helping the output switch fully to the higher supply voltage
 
 # 💎About the project
+
+In this circuit, there are two supply domains:
+
+VDD1 → Low-voltage domain
+VDD2 → High-voltage domain
+GND → Common ground
+VIN → Input signal
+VOUT → Level-shifted output
+
+The basic purpose is:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
