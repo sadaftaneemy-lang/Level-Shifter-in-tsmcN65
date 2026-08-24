@@ -228,6 +228,20 @@ The first two transistors are:
 
 They form a standard CMOS inverter
 
+```
+              VDD1
+                │
+              PMOS1
+                │
+VIN ────────────┤
+                │
+              net14
+                │
+              NMOS1
+                │
+               GND
+
+```
 
 
 
