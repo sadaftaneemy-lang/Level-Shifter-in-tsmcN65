@@ -243,7 +243,9 @@ VIN ────────────┤
 
 ```
 
+The gates of both transistors are connected to VIN.
 
+Therefore, PMOS1 and NMOS1 always operate oppositely.
 
 
 
