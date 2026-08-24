@@ -181,9 +181,9 @@ Low-voltage block
       
 High-voltage block
 ```
-## 3. Overall Structure of Your Circuit
+## 3. Overall Structure of the Circuit
 
-Your schematic can be divided into three major sections:
+The schematic can be divided into three major sections:
 
 **Block 1** — Input inverter
 
