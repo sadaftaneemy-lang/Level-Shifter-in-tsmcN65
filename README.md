@@ -148,7 +148,19 @@ For example :
 Therefore:
 The important point is that the input voltage does not need to reach VDD2. The circuit uses VDD2 to generate the high-voltage output
 
+## 2. Why Do We Need a Level Shifter?
 
+Suppose one block of an IC operates at 1.2 V and another block operates at 2.5 V.
+
+If the 1.2 V signal is directly connected to a circuit expecting a 2.5 V logic signal, several problems can occur:
+
+The HIGH level may not be sufficient for the receiving circuit.
+The receiving transistors may not switch properly.
+Noise margins can be reduced.
+High-voltage devices may require appropriate gate voltages.
+Direct connection can result in incorrect logic operation.
+
+Therefore, a level shifter acts as an interface:
 
 
 
