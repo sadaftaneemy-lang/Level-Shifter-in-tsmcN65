@@ -221,8 +221,12 @@ These are two CMOS inverter stages used to buffer and restore the signal.
 
 ## 4. First Block — Input Inverter
 
+The first two transistors are:
 
+- PMOS1
+- NMOS1
 
+They form a standard CMOS inverter
 
 
 
