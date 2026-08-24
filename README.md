@@ -146,7 +146,7 @@ For example :
 0 V → VDD2 = 2.5 V
 
 Therefore:
-
+The important point is that the input voltage does not need to reach VDD2. The circuit uses VDD2 to generate the high-voltage output
 
 
 
