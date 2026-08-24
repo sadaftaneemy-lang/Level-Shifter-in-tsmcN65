@@ -181,8 +181,37 @@ Low-voltage block
       
 High-voltage block
 ```
+## 3. Overall Structure of Your Circuit
 
+Your schematic can be divided into three major sections:
 
+Block 1 — Input inverter
+
+Consists of:
+
+PMOS1
+NMOS1
+Block 2 — Core level-shifting stage
+
+Consists of:
+
+PMOS2
+PMOS3
+NMOS2
+NMOS3
+
+This is the most important section.
+
+Block 3 — Output buffer
+
+Consists of:
+
+PMOS4 + NMOS4
+PMOS5 + NMOS5
+
+These are two CMOS inverter stages used to buffer and restore the signal.
+
+So conceptually:
 
 
 
