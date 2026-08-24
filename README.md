@@ -162,6 +162,7 @@ Direct connection can result in incorrect logic operation.
 
 Therefore, a level shifter acts as an interface:
 
+```
 Low-voltage block
 
       │
@@ -179,8 +180,7 @@ Low-voltage block
       ▼
       
 High-voltage block
-
-
+```
 
 
 
