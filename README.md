@@ -219,7 +219,23 @@ Consists of:
 
 These are two CMOS inverter stages used to buffer and restore the signal.
 
-So conceptually:
+## 4. First Block — Input Inverter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
