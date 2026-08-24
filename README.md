@@ -163,13 +163,21 @@ Direct connection can result in incorrect logic operation.
 Therefore, a level shifter acts as an interface:
 
 Low-voltage block
+
       │
-      │ VDD1-domain signal
+      
+      │  VDD1-domain signal
+      
       ▼
+      
   LEVEL SHIFTER
+  
       │
-      │ VDD2-domain signal
+      
+      │  VDD2-domain signal
+      
       ▼
+      
 High-voltage block
 
 
