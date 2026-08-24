@@ -209,13 +209,12 @@ Consists of:
 
 This is the most important section.
 
-Block 3 — Output buffer
+**Block 3** — Output buffer
 
 
 Consists of:
 
 - PMOS4 + NMOS4
-- 
 - PMOS5 + NMOS5
 
 These are two CMOS inverter stages used to buffer and restore the signal.
