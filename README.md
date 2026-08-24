@@ -185,13 +185,16 @@ High-voltage block
 
 Your schematic can be divided into three major sections:
 
-Block 1 — Input inverter
+**Block 1** — Input inverter
 
 Consists of:
 
-PMOS1
-NMOS1
-Block 2 — Core level-shifting stage
+- PMOS1
+  
+- NMOS1
+  
+
+**Block 2** — Core level-shifting stage
 
 Consists of:
 
